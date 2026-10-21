@@ -19,3 +19,4 @@ Icon[
 *.gz
 *.parquet
 *.zip
+data/
