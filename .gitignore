@@ -19,3 +19,5 @@ Icon[
 *.gz
 *.parquet
 *.zip
+!/train_set.parquet
+!/test_set.parquet
